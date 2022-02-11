@@ -69,7 +69,7 @@
                         </SearchContainer>                    
                     </Left>
                     <Center>
-                        <Logo>Lojinha</Logo>
+                        <Logo>Loja do Alison</Logo>
                     </Center>
                     <Right>
                         <MenuItem>Registrar</MenuItem>
