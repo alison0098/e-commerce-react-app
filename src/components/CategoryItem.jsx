@@ -7,7 +7,7 @@ const Container = styled.div``
 const CategoryItem = ({item}) => {
     return (
         <Container>
-            Teste
+            Testando
         </Container>
     )
 }
