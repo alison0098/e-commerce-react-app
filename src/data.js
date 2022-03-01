@@ -44,10 +44,10 @@ export const categories = [
         desc: "Diga as palavras e comece a agir com a camiseta Just Do It da Nike Basquete. Ela é feita de algodão macio e confortável em um caimento solto e descontraído.",
         bg:"e8fcf6"
     }
-]k
+]
 
 
-export const products = [
+export const popularProducts = [
     {
         id:1,
         img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
