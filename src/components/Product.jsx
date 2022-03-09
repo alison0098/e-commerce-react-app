@@ -16,7 +16,7 @@ const Container = styled.div`
 `;
 
 const Circle = styled.div``;
-const Image = styled.image`
+const Image = styled.img`
 	height:75%;
 `;
 const Info = styled.div``;
@@ -25,8 +25,8 @@ const Icon = styled.div``;
 const Product = ({item}) => {
   return (
     <Container>
-      <Circle />
-      <Image scr={item.img} />
+      <Circle/>
+      <Image src={item.img}/>
       <Info>
         <Icon>
           <ShoppingCartOutlined />

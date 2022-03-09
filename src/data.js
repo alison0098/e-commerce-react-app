@@ -50,26 +50,26 @@ export const categories = [
 export const popularProducts = [
     {
         id:1,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://images.lojanike.com.br/produto/tenis-w-nsw-af1-af1-CI0919-004-1-11638985136.jpg",
     },
     {
         id:2,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://images.lojanike.com.br/produto/blusao-m-nsw-swoosh-wvn-lnd-jkt-DD5967-657-1-11621542382.jpg",
     },
     {
         id:3,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://images.lojanike.com.br/produto/jaqueta-nike-essential-masculina-BV4870-010-1.png",
     },
     {
         id:4,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://images.lojanike.com.br/produto/tenis-wmns-nike-ad-comfort-DJ1001-002-1-11621542982.jpg",
     },
     {
         id:5,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://static.netshoes.com.br/produtos/jaqueta-nike-sportswear-windrunner-feminina/26/HZM-4706-026/HZM-4706-026_zoom1.jpg?ts=1630603441&ims=544x",
     },
     {
         id:6,
-        img: "https://images.lojanike.com.br//produto/tenis-nike-court-royale-2-DH3159-001-1-11628872302.jpg",
+        img: "https://images.lojanike.com.br/produto/tenis-air-force-1-07-lv8-emb-CT2301-001-1.jpg",
     }
 ]
